@@ -1,6 +1,6 @@
 #RequireAdmin
 #Region ;**** Directives created by AutoIt3Wrapper_GUI ****
-#AutoIt3Wrapper_Icon=Custom-Icon-Design-Mono-Business-Phone.ico
+#AutoIt3Wrapper_Icon=Phone-Icon.ico
 #AutoIt3Wrapper_UseUpx=n
 #EndRegion ;**** Directives created by AutoIt3Wrapper_GUI ****
 #include <GUIConstants.au3>
